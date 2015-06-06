@@ -57,4 +57,10 @@ public class MainActivity extends ActionBarActivity {
         scoreTeamB.setText(String.valueOf(scoreB));
     }
 
+    public void resetScore(View view) {
+        scoreA = scoreB = 0;
+        updateScoreA();
+        updateScoreB();
+    }
+
 }
