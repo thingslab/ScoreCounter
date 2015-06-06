@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ScoreCounter</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="team_a">Team A</string>
+    <string name="add_three_button_text">+3 Points</string>
+    <string name="add_two_button_text">+2 Points</string>
+    <string name="free_throw">Free Throw</string>
 </resources>
